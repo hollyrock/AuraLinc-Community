@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="EcoCONNECT">
+  <circle cx="32" cy="32" r="30" fill="#1f6f4a"/>
+  <path d="M32 14c8 6 14 12 14 20a14 14 0 1 1-28 0c0-8 6-14 14-20z" fill="#b7e4c7"/>
+  <circle cx="32" cy="34" r="6" fill="#1f6f4a"/>
+</svg>

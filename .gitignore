@@ -1,0 +1,23 @@
+# Local management (not published)
+scripts/
+.githooks/
+
+# VitePress / Node tooling (not published — only markdown + built site are public)
+docs/.vitepress/
+docs/node_modules/
+docs/package.json
+docs/package-lock.json
+
+# Internal firmware source (synced locally for maintainers; not for public users)
+firmware/main/
+firmware/pico2/auralinc_c_modules/
+
+# Development hardware filenames (public copies use ecoconnect-main-board.*)
+hardware/main-board/sensor-pico.*
+
+# OS / editor
+.DS_Store
+.cursor/
+
+# Node (if ever present at repo root)
+node_modules/
