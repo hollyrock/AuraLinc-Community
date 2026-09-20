@@ -2,6 +2,8 @@
 #
 # Publishes the prebuilt static site in /site (VitePress tooling is local-only).
 # Maintainers: run `./scripts/docs.sh build` before pushing site updates.
+#
+# Requires: Settings → Pages → Source = GitHub Actions
 
 name: Deploy docs site
 
