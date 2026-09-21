@@ -1,23 +1,25 @@
 # EcoCONNECT Community
 
-Open-source hardware community site for learning with sensors — beginner-friendly docs, STEAM ideas, firmware images, and open board designs.
+[English](./README.en.md)
 
-## Browse the site
+センサーで学ぶオープンソース・ハードウェアのコミュニティサイトです。初心者向けドキュメント、STEAM のアイデア、ファームウェア画像、オープンな基板設計を公開しています。hollyRock による EcoCONNECT プロジェクトです。
 
-- **Docs (GitHub Pages):** after the first site build is published, visit the Pages URL for this repository.
-- **In this repo**
-  - `docs/` — beginner-friendly documentation pages
-  - `firmware/pico2/release/` — ready-to-flash firmware images
-  - `hardware/` — main-board design files
+## サイトを見る
 
-## Repository map
+- **ドキュメント（GitHub Pages）:** https://hollyrock.github.io/AuraLinc-Community/
+- **このリポジトリ**
+  - `docs/` — 初心者向けドキュメント（日本語がデフォルト、英語は `/en/`）
+  - `firmware/pico2/release/` — 書き込み用ファームウェア
+  - `hardware/` — メインボード設計ファイル
+
+## リポジトリ構成
 
 ```text
 community/
-├── docs/                      # User-facing documentation
-├── firmware/pico2/release/    # Public firmware images
-├── hardware/                  # OSHWA-oriented board data
-└── site/                      # Built website (GitHub Pages)
+├── docs/                      # ドキュメント（JA + EN）
+├── firmware/pico2/release/    # 公開ファームウェア画像
+├── hardware/                  # OSHWA 向けボードデータ
+└── site/                      # ビルド済みサイト（GitHub Pages）
 ```
 
-Internal source, build modules, and management scripts are kept local and are not published to GitHub.
+内部ソース、ビルド用モジュール、管理用スクリプトはローカルに留め、GitHub には公開していません。

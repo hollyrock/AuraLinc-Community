@@ -1,25 +1,25 @@
-# What is EcoCONNECT?
+# EcoCONNECT とは？
 
-EcoCONNECT is an **open-source hardware** project for learning about the environment through simple sensors and hands-on making.
+EcoCONNECT は、かんたんなセンサーとものづくりを通して、環境について学ぶための **オープンソース・ハードウェア** プロジェクトです。hollyRock がコミュニティ向けに公開しています。
 
-## Who is it for?
+## だれ向け？
 
-- Students and teachers exploring STEAM
-- Clubs and makerspaces trying a first electronics project
-- Anyone who wants to measure something real (light, temperature, and more) without a steep learning curve
+- STEAM を学ぶ児童・生徒と先生
+- はじめての電子工作に挑戦するクラブやメイカースペース
+- むずかしい準備なしで、光や温度など「本物の計測」をしてみたい人
 
-## What you will find here
+## このサイトでできること
 
-| Section | What it helps you do |
+| セクション | できること |
 | --- | --- |
-| [Getting started](/guide/getting-started) | Unbox, power on, and complete a first success |
-| [Tutorials](/tutorials/) | Follow step-by-step activities |
-| [STEAM](/steam/) | Classroom-friendly lesson ideas |
-| [Examples](/examples/) | Project inspiration |
-| [Recipes](/recipes/) | Short activities you can finish quickly |
-| [Gallery](/gallery/) | Community builds and photos |
+| [はじめ方](/guide/getting-started) | 箱を開けて電源を入れ、最初の成功まで |
+| [チュートリアル](/tutorials/) | 手順どおりに進めるアクティビティ |
+| [STEAM](/steam/) | 授業・教室向けのアイデア |
+| [事例](/examples/) | プロジェクトのヒント |
+| [レシピ](/recipes/) | 短時間で終わる小さな実験 |
+| [ギャラリー](/gallery/) | コミュニティの作品 |
 
-## Open hardware, explained simply
+## 「オープン」ってどういうこと？
 
-“Open” means the designs are meant to be **studied, built, and improved together**.  
-You do not need to read circuit files or firmware source to enjoy EcoCONNECT — start with the guides above. When you are ready to go deeper, visit [For makers](/makers/).
+設計を **学び、作り、いっしょに良くしていく** ための公開です。  
+回路ファイルやソースを読まなくても、上のガイドから楽しめます。もっと深く知りたくなったら [メーカー向け](/makers/) へどうぞ。

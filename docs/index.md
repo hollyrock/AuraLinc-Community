@@ -3,21 +3,21 @@ layout: home
 
 hero:
   name: EcoCONNECT
-  text: Learn with open hardware
-  tagline: A friendly kit for sensing the world around you — built for classrooms, clubs, and curious beginners.
+  text: オープンハードウェアで学ぼう
+  tagline: 教室・クラブ・はじめての人向け。身のまわりを測る、やさしいキットです。
   actions:
     - theme: brand
-      text: Get started
+      text: はじめる
       link: /guide/getting-started
     - theme: alt
-      text: What is EcoCONNECT?
+      text: EcoCONNECT とは？
       link: /guide/what-is-ecoconnect
 
 features:
-  - title: Built for beginners
-    details: Plain language, short steps, and pictures-first guidance. No prior coding experience required.
-  - title: Learn by doing
-    details: Tutorials, STEAM classroom ideas, and small “recipes” you can finish in one session.
-  - title: Open & shareable
-    details: Hardware designs and firmware images you can study, remix, and share with your community.
+  - title: 初心者にもわかりやすく
+    details: かんたんな言葉と短い手順。プログラミング経験がなくても大丈夫です。
+  - title: やってみて学ぶ
+    details: チュートリアル、STEAM の授業アイデア、短時間で終わるレシピがあります。
+  - title: ひらいて、分かちあう
+    details: ハードウェア設計とファームウェア画像を、みんなで学び・改変・共有できます。
 ---

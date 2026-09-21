@@ -1,36 +1,36 @@
-# Your first sensor reading
+# はじめてのセンサー計測
 
-**Goal:** See a live value from your EcoCONNECT board and describe what it means in plain words.
+**目標：** EcoCONNECT ボードからリアルタイムの値を見て、かんたんな言葉で意味を説明する。
 
-**Time:** about 10 minutes  
-**Level:** beginner
+**時間：** 約 10 分  
+**レベル：** 初心者
 
-## Before you start
+## はじめる前に
 
-Finish [Getting started](/guide/getting-started) so the board has firmware loaded.
+[はじめ方](/guide/getting-started) を終わらせ、ファームウェアを書き込んでおいてください。
 
-## Steps
+## 手順
 
-1. Place the board on a clean, dry table.
-2. Connect USB power.
-3. Open the tool or serial monitor your kit instructions recommend for beginners.
-4. Watch the numbers for 30 seconds without touching the sensor.
-5. Gently change the environment (for example: cover a light sensor, warm a temperature sensor with your hands — only if your kit says it is safe).
-6. Watch how the numbers change.
+1. 清潔で乾いた机の上にボードを置く
+2. USB で電源をつなぐ
+3. キットの説明で初心者向けとされているツール／シリアルモニタを開く
+4. センサーにさわらず、30 秒ほど数値を見る
+5. 環境をそっと変える（例：光センサーを手で覆う、温度センサーを手であたためる — キットが安全と書いている場合のみ）
+6. 数値がどう変わるか観察する
 
-## What to write in your notebook
+## ノートに書くこと
 
-- What stayed the same?
-- What changed?
-- What do you think caused the change?
+- 変わらなかったことは？
+- 変わったことは？
+- なぜ変わったと思う？
 
-## You’re done when…
+## できた！の目安
 
-You can explain one measurement in one sentence, for example:
+計測を一文で説明できたら OK です。例：
 
-> “When I covered the sensor, the light reading went down.”
+> 「センサーを覆ったら、光の値が下がった。」
 
-## Next
+## 次へ
 
-- Try a [quick recipe](/recipes/)
-- Explore [project examples](/examples/)
+- [短いレシピ](/recipes/) を試す
+- [プロジェクト事例](/examples/) を見る

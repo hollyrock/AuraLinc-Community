@@ -1,22 +1,22 @@
-# Recipes
+# レシピ
 
-Recipes are **tiny activities** you can finish in one short session.
+レシピは、短時間で終わる **小さなアクティビティ** です。
 
-## Recipe: Quiet baseline
+## レシピ：静かな基準値
 
-1. Power on the board.
-2. Don’t touch the sensor for one minute.
-3. Write down the most common reading you see.
-4. That number is your “quiet baseline.”
+1. ボードの電源を入れる
+2. センサーにさわらず 1 分待つ
+3. いちばんよく出た数値を書く
+4. それが「静かな基準値」
 
-## Recipe: One change only
+## レシピ：変化はひとつだけ
 
-1. Note your baseline.
-2. Change **one** thing (light, distance, airflow…).
-3. Wait 20 seconds.
-4. Note the new reading.
-5. Talk about cause and effect.
+1. 基準値をメモする
+2. **ひとつだけ** 変える（光・距離・風など）
+3. 20 秒待つ
+4. 新しい数値をメモする
+5. 原因と結果について話す
 
-## Recipe: Teach a friend
+## レシピ：友だちに教える
 
-Explain EcoCONNECT to a partner in under two minutes using only everyday words — no jargon contest!
+専門用語なしで、2 分以内に EcoCONNECT をパートナーに説明する — むずかしい言葉コンテストはなし！

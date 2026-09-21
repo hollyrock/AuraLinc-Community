@@ -460,7 +460,11 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "hollyRock",
+      "auralinc",
+      "MINISMDC075F-2  resettable Fuse"
+    ],
     "pinned_symbol_libs": [
       "hollyRockDBLib - Resistors",
       "hollyRockDBLib - Capacitors",

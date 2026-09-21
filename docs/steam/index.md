@@ -1,23 +1,23 @@
-# STEAM classroom ideas
+# STEAM の授業アイデア
 
-EcoCONNECT supports **Science, Technology, Engineering, Arts, and Mathematics** through short, tangible activities.
+EcoCONNECT は、短い・手触りのある活動を通して **STEAM**（Science / Technology / Engineering / Arts / Mathematics）を支えます。
 
-## Sample lesson hooks
+## 授業のとっかかり例
 
-| Subject | Prompt |
+| 教科 | 問いかけ |
 | --- | --- |
-| Science | How does light in the room change during the day? |
-| Technology | What does a sensor “tell” a computer? |
-| Engineering | How would you protect a board used outdoors? |
-| Arts | Turn sensor values into color, sound, or a paper data poster |
-| Math | Graph 10 readings. What is the average? The range? |
+| Science | 教室の明るさは一日でどう変わる？ |
+| Technology | センサーはコンピュータに何を「伝える」？ |
+| Engineering | 屋外で使うとき、ボードをどう守る？ |
+| Arts | センサーの値を色・音・紙のポスターにする |
+| Math | 10 回測って平均と範囲を出す |
 
-## Facilitation tips
+## 進め方のヒント
 
-- Keep groups small (2–3 students)
-- Aim for one clear question per session
-- End with a share-out: each group says one discovery
+- グループは少人数（2〜3 人）
+- 1 回の授業で問いをひとつに絞る
+- 終わりに一言シェア：各グループが「発見」をひとつ発表
 
-## Share your lesson
+## 授業案の共有
 
-Classroom adaptations are welcome in the [gallery](/gallery/) — photos of posters and student setups help the next teacher.
+教室でのアレンジは [ギャラリー](/gallery/) へどうぞ。ポスターやセットアップの写真が、次の先生の助けになります。

@@ -1,15 +1,15 @@
-# Tutorials
+# チュートリアル
 
-Short, guided activities. Start at the top and move down when you feel ready.
+短いガイドつきのアクティビティです。上から順に進めると安心です。
 
-## Path for beginners
+## 初心者向けの道すじ
 
-1. [Getting started](/guide/getting-started) — power on and flash the board
-2. [Your first sensor reading](/tutorials/first-reading) — observe a real measurement
-3. Pick a [recipe](/recipes/) — try a tiny experiment
+1. [はじめ方](/guide/getting-started) — 電源オンと書き込み
+2. [はじめてのセンサー計測](/tutorials/first-reading) — 本物の数値を観察
+3. [レシピ](/recipes/) をひとつ選ぶ — 小さな実験
 
-## Tips for success
+## うまく進めるコツ
 
-- Read one step at a time
-- If a step fails, go back one step before troubleshooting further
-- Write down what you see — good science starts with notes
+- 一度に一歩だけ読む
+- うまくいかないときは、ひとつ前の手順に戻る
+- 見たことをノートに書く — よい観察の第一歩です

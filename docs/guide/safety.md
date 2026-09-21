@@ -1,20 +1,20 @@
-# Safety first
+# 安全のために
 
-EcoCONNECT is designed for learning, but electronics still need care.
+EcoCONNECT は学習用ですが、電子工作では注意が必要です。
 
-## Do
+## やってよいこと
 
-- Ask an adult or teacher for help the first time you connect power
-- Keep drinks away from the board and cables
-- Handle the board by its edges
-- Unplug USB before attaching or removing add-on parts
+- はじめて電源をつなぐときは、大人や先生といっしょに
+- 飲み物はボードやケーブルから離す
+- ボードはふちをもって扱う
+- 部品の付け外しの前に USB を抜く
 
-## Don’t
+## やってはいけないこと
 
-- Don’t short metal parts with jewelry or tools
-- Don’t force connectors
-- Don’t leave the board on a conductive surface (like bare metal) while powered
+- 金属アクセサリーや工具でショートさせない
+- コネクタを無理に差し込まない
+- 電源が入ったまま、むき出しの金属の上に置かない
 
-## Classroom tip
+## 教室でのヒント
 
-Work in pairs: one person handles the hardware, the other reads the steps aloud.
+ペアで進めましょう。ひとりがハードウェア、もうひとりが手順を音読すると安心です。

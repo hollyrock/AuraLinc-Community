@@ -1,23 +1,23 @@
-# Project examples
+# プロジェクト事例
 
-Need inspiration? Start with one of these small projects.
+ヒントが欲しいときは、この小さなプロジェクトから。
 
-## Indoor light diary
+## 室内の光日記
 
-Measure light in the same spot every hour for one day. Make a simple chart.
+同じ場所の明るさを、1 時間ごとに 1 日測る。かんたんなグラフにする。
 
-## Warm hands, cool air
+## あたたかい手、すずしい空気
 
-Compare a reading near a window with a reading near the center of the room.
+窓際の計測と、部屋の中央の計測をくらべる。
 
-## Club demo booth
+## クラブのデモブース
 
-Prepare a 60-second demo: show a live reading and explain what the sensor detects.
+60 秒デモを用意：ライブの数値を見せて、センサーが何を測っているか説明する。
 
-## Remix ideas
+## アレンジのアイデア
 
-- Add a paper enclosure (art + engineering)
-- Translate labels into another language
-- Design a better cable-management stand
+- 紙のケースを作る（Arts + Engineering）
+- ラベルを別の言語にする
+- ケーブル整理用のスタンドをデザインする
 
-When you finish a project, add it to the [gallery](/gallery/).
+完成したら [ギャラリー](/gallery/) にどうぞ。

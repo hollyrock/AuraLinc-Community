@@ -1,51 +1,51 @@
-# Getting started
+# はじめ方
 
-Welcome! This page gets you to a **first success** in about 15–20 minutes.
+ようこそ！このページでは、約 15〜20 分で **最初の成功** まで進めます。
 
-## You will need
+## 用意するもの
 
-- An EcoCONNECT board (main board)
-- A USB cable that fits your board
-- A computer (Windows, macOS, or Linux)
+- EcoCONNECT のメインボード
+- ボードに合う USB ケーブル
+- パソコン（Windows / macOS / Linux）
 
-Optional: a notebook for observations.
+あれば便利：観察メモ用のノート
 
-## Steps
+## 手順
 
-### 1. Check the board
+### 1. ボードを確認する
 
-Look over the board once. Find:
+ボードを一度ながめて、次を探します。
 
-- The USB connector
-- The main chip area
-- Any clearly labeled sensor connectors
+- USB コネクタ
+- メインのチップ周辺（Raspberry Pi Pico）
+- センサー用のコネクタ（ラベルがある場合）
 
-If something looks damaged, stop and ask a teacher or mentor for help.
+破損していそうなら、電源を入れず先生やメンターに相談してください。
 
-### 2. Connect power
+### 2. 電源をつなぐ
 
-1. Plug the USB cable into the board.
-2. Plug the other end into your computer.
-3. Look for a power indicator (LED or similar) if your board has one.
+1. USB ケーブルをボードにさす
+2. もう一端をパソコンにさす
+3. 電源ランプ（LED など）があれば点灯を確認
 
-### 3. Load the ready-made firmware (beginner path)
+### 3. 用意済みファームウェアを書き込む（初心者向け）
 
-EcoCONNECT includes a **ready-to-use firmware image** so you do not need to write code first.
+EcoCONNECT には、コードを書かなくても使える **書き込み用イメージ** があります。
 
-1. Open the repository’s `firmware/pico2/release/` folder.
-2. Follow the short README in `firmware/pico2/` for how to copy the `.uf2` image to the board.
-3. When the board reboots, you are ready for your first reading.
+1. リポジトリの `firmware/pico2/release/` を開く
+2. `firmware/pico2/` の README に従い、`.uf2` を Raspberry Pi Pico にコピーする
+3. ボードが再起動したら、最初の計測の準備完了です
 
 ::: tip
-If you get stuck flashing the board, ask a mentor — this is a common first hurdle and easy to fix together.
+書き込みでつまずいたらメンターに聞いてください。はじめての人によくあるステップで、いっしょならすぐ解決できます。
 :::
 
-### 4. Celebrate your first reading
+### 4. 最初の計測へ
 
-Continue with [Your first sensor reading](/tutorials/first-reading).
+つづきは [はじめてのセンサー計測](/tutorials/first-reading) へ。
 
-## Next ideas
+## 次にやってみよう
 
-- Try a [recipe](/recipes/) for a 10-minute activity
-- Browse [examples](/examples/) for project inspiration
-- Teachers: see [STEAM classroom ideas](/steam/)
+- 10 分で終わる [レシピ](/recipes/)
+- アイデア探しは [事例](/examples/)
+- 先生向け：[STEAM の授業アイデア](/steam/)

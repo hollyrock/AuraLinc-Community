@@ -1,19 +1,19 @@
-# Gallery
+# ギャラリー
 
-A place for community builds, classroom photos, and friendly show-and-tell.
+コミュニティの作品、教室の写真、やさしいショー＆テルの場所です。
 
-## What to share
+## 共有してほしいもの
 
-- Photos of your setup (no faces required)
-- A short caption: what you measured and what you learned
-- Optional: sketch or poster of your data
+- セットアップの写真（顔は不要）
+- 短いキャプション：何を測り、何がわかったか
+- 任意：データのスケッチやポスター
 
-## How to contribute
+## 投稿のしかた
 
-1. Open a GitHub Discussion or Pull Request with your image and caption.
-2. Keep files small and clearly named.
-3. Credit students/clubs the way they prefer.
+1. 画像とキャプションを添えて、GitHub の Discussion または Pull Request を開く
+2. ファイルは小さめ・わかりやすい名前に
+3. 児童・クラブのクレジットは、本人の希望どおりに
 
 ::: tip Coming soon
-This page will grow as community photos arrive. Your first contribution is welcome.
+写真が集まるにつれて、このページも育っていきます。最初の投稿を歓迎します。
 :::
