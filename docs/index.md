@@ -3,21 +3,24 @@ layout: home
 
 hero:
   name: EcoCONNECT
-  text: オープンハードウェアで学ぼう
-  tagline: 教室・クラブ・はじめての人向け。身のまわりを測る、やさしいキットです。
+  text: コミュニティ
+  tagline: ドキュメント・STEAM資料・みんなの広場。hollyRock の EcoCONNECT を、教室とクラブで。
   actions:
     - theme: brand
-      text: はじめる
-      link: /guide/getting-started
+      text: ドキュメント
+      link: /docs/
     - theme: alt
-      text: EcoCONNECT とは？
-      link: /guide/what-is-ecoconnect
+      text: STEAM資料
+      link: /steam/
 
 features:
-  - title: 初心者にもわかりやすく
-    details: かんたんな言葉と短い手順。プログラミング経験がなくても大丈夫です。
-  - title: やってみて学ぶ
-    details: チュートリアル、STEAM の授業アイデア、短時間で終わるレシピがあります。
-  - title: ひらいて、分かちあう
-    details: ハードウェア設計とファームウェア画像を、みんなで学び・改変・共有できます。
+  - title: ドキュメント
+    details: はじめ方、チュートリアル、リポジトリ案内、FAQ。技術情報はここに集約しています。
+    link: /docs/
+  - title: STEAM資料
+    details: 授業用のテンプレート、ワークシート、短い活動例。教育者向けです。
+    link: /steam/
+  - title: コミュニティ広場
+    details: アイデア・質問・提案を共有。GitHub Discussions（giscus）でつながります。
+    link: /community/
 ---

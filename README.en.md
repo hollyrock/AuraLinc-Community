@@ -2,24 +2,25 @@
 
 [日本語](./README.md)
 
-Open-source hardware community site for learning with sensors — beginner-friendly docs, STEAM ideas, firmware images, and open board designs. EcoCONNECT by hollyRock.
+Open-source hardware community site for EcoCONNECT by hollyRock.
 
-## Browse the site
+## Site sections
 
-- **Docs (GitHub Pages):** https://hollyrock.github.io/AuraLinc-Community/
-- **In this repo**
-  - `docs/` — beginner-friendly documentation (Japanese default; English at `/en/`)
-  - `firmware/pico2/release/` — ready-to-flash firmware images
-  - `hardware/` — main-board design files
+| Section | Contents |
+| --- | --- |
+| **Docs** | Getting started, tutorials, repo map, FAQ |
+| **STEAM** | Classroom templates, worksheets, short activities |
+| **Community** | Ideas, questions, suggestions (GitHub Discussions / giscus) |
 
-## Repository map
+- **Site:** https://hollyrock.github.io/AuraLinc-Community/
+- **Discussions:** https://github.com/hollyrock/AuraLinc-Community/discussions
 
 ```text
 community/
-├── docs/                      # Documentation (JA + EN)
-├── firmware/pico2/release/    # Public firmware images
-├── hardware/                  # OSHWA-oriented board data
-└── site/                      # Built website (GitHub Pages)
+├── docs/                      # Site source (JA + EN)
+├── firmware/pico2/release/    # Public firmware
+├── hardware/                  # Board designs
+└── site/                      # Built output (GitHub Pages)
 ```
 
-Internal source, build modules, and management scripts are kept local and are not published to GitHub.
+Internal source and management scripts stay local and are not published to GitHub.

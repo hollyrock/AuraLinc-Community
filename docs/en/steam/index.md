@@ -1,23 +1,14 @@
-# STEAM classroom ideas
+# STEAM materials
 
-EcoCONNECT supports **Science, Technology, Engineering, Arts, and Mathematics** through short, tangible activities.
+Templates, worksheets, and short activities for educators using EcoCONNECT with STEAM in class.
 
-## Sample lesson hooks
+## Contents
 
-| Subject | Prompt |
+| Page | What you’ll find |
 | --- | --- |
-| Science | How does light in the room change during the day? |
-| Technology | What does a sensor “tell” a computer? |
-| Engineering | How would you protect a board used outdoors? |
-| Arts | Turn sensor values into color, sound, or a paper data poster |
-| Math | Graph 10 readings. What is the average? The range? |
+| [Classroom ideas](./classroom) | Subject prompts and facilitation tips |
+| [Recipes](./recipes) | Quick session activities |
+| [Examples](./examples) | Small project ideas |
 
-## Facilitation tips
-
-- Keep groups small (2–3 students)
-- Aim for one clear question per session
-- End with a share-out: each group says one discovery
-
-## Share your lesson
-
-Classroom adaptations are welcome in the [gallery](/en/gallery/) — photos of posters and student setups help the next teacher.
+Technical steps and file locations: [Docs](/en/docs/).  
+Share outcomes and questions: [Community](/en/community/).

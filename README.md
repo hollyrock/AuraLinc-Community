@@ -2,24 +2,25 @@
 
 [English](./README.en.md)
 
-センサーで学ぶオープンソース・ハードウェアのコミュニティサイトです。初心者向けドキュメント、STEAM のアイデア、ファームウェア画像、オープンな基板設計を公開しています。hollyRock による EcoCONNECT プロジェクトです。
+センサーで学ぶオープンソース・ハードウェアのコミュニティサイトです。hollyRock による EcoCONNECT プロジェクトです。
 
-## サイトを見る
+## サイト構成
 
-- **ドキュメント（GitHub Pages）:** https://hollyrock.github.io/AuraLinc-Community/
-- **このリポジトリ**
-  - `docs/` — 初心者向けドキュメント（日本語がデフォルト、英語は `/en/`）
-  - `firmware/pico2/release/` — 書き込み用ファームウェア
-  - `hardware/` — メインボード設計ファイル
+| セクション | 内容 |
+| --- | --- |
+| **ドキュメント** | はじめ方・チュートリアル・リポジトリ案内・FAQ |
+| **STEAM資料** | 授業用テンプレート・ワークシート・短い活動例 |
+| **コミュニティ広場** | アイデア・質問・提案（GitHub Discussions / giscus） |
 
-## リポジトリ構成
+- **サイト:** https://hollyrock.github.io/AuraLinc-Community/
+- **Discussions:** https://github.com/hollyrock/AuraLinc-Community/discussions
 
 ```text
 community/
-├── docs/                      # ドキュメント（JA + EN）
-├── firmware/pico2/release/    # 公開ファームウェア画像
-├── hardware/                  # OSHWA 向けボードデータ
-└── site/                      # ビルド済みサイト（GitHub Pages）
+├── docs/                      # サイト原稿（JA + EN）
+├── firmware/pico2/release/    # 公開ファームウェア
+├── hardware/                  # ボード設計
+└── site/                      # ビルド成果（GitHub Pages）
 ```
 
-内部ソース、ビルド用モジュール、管理用スクリプトはローカルに留め、GitHub には公開していません。
+内部ソースと管理用スクリプトはローカルのみで、GitHub には公開していません。
