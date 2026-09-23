@@ -1,3 +1,0 @@
-# Moved
-
-→ [チュートリアル](/docs/tutorials/)

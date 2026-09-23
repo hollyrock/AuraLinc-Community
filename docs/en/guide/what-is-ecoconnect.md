@@ -1,3 +1,0 @@
-# Moved
-
-→ [Docs](/en/docs/)
