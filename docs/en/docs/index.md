@@ -8,7 +8,7 @@ Technical documentation for EcoCONNECT: getting started, tutorials, where files 
 | --- | --- |
 | [What is EcoCONNECT?](./what-is-ecoconnect) | Project overview |
 | [Repo map](./repo-map) | Public file locations |
-| [Use with AuraLinc](./auralinc/tutorials/index.md) | Manual for AuraLinc (commercial edition) |
+| [Use with AuraLinc](./auralinc/tutorials/) | Manual for AuraLinc (commercial edition) |
 | [Hack!](./hack/getting-started) | A step further into how to use the device |
 
 Share ideas and questions in the [Community plaza](/en/community/).

@@ -13,5 +13,5 @@ Where to find the open files in this public community repository.
 
 ## Suggested path
 
-1. Get EcoCONNECT running with [Hack!](./hack/getting-started.md)
+1. Get EcoCONNECT running with [Hack!](./hack/getting-started)
 2. When you want to look at the design, open `hardware/main-board/` in KiCad

@@ -10,7 +10,7 @@ BOOTSEL を押しながら USB をさし直してください。Raspberry Pi Pic
 
 ### どのファイルをコピーすればよいですか？
 
-`firmware/pico2/release/ecoconnect-pico2.uf2` を使います。手順は [はじめ方](./getting-started) と `firmware/pico2/README.md` を参照してください。
+`firmware/pico2/release/ecoconnect-pico2.uf2` を使います。手順は [はじめ方](../hack/getting-started) と `firmware/pico2/README.md` を参照してください。
 
 ### 書き込み後に何も起きません
 
@@ -24,7 +24,7 @@ BOOTSEL を押しながら USB をさし直してください。Raspberry Pi Pic
 
 ### 回路や設計ファイルはどこ？
 
-[リポジトリ案内](./repo-map) を見てください。公開しているのはボード設計と書き込み用イメージです。
+[リポジトリ案内](../repo-map) を見てください。公開しているのはボード設計と書き込み用イメージです。
 
 ## コミュニティ
 

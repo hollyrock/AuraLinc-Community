@@ -8,7 +8,7 @@ EcoCONNECT の技術ドキュメントです。はじめ方・チュートリア
 | --- | --- |
 | [EcoCONNECT とは？](./what-is-ecoconnect) | プロジェクトの概要 |
 | [リポジトリ案内](./repo-map) | 公開ファイルの場所 |
-| [AuraLincで使う](./auralinc/tutorials/index.md) | AuraLinc（商用版）のマニュアル |
+| [AuraLincで使う](./auralinc/tutorials/) | AuraLinc（商用版）のマニュアル |
 | [ハック！](./hack/getting-started) | 一歩進んだ使い方をご紹介します |
 
 アイデアや質問の共有は [コミュニティ広場](/community/) へ。

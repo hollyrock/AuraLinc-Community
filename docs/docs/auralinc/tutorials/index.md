@@ -4,8 +4,8 @@
 
 ## 初心者向けの道すじ
 
-1. [はじめ方](/docs/getting-started) — 電源オンと書き込み
-2. [はじめてのセンサー計測](/docs/tutorials/first-reading) — 本物の数値を観察
+1. [はじめ方](/docs/hack/getting-started) — 電源オンと書き込み
+2. [はじめてのセンサー計測](/docs/auralinc/tutorials/first-reading) — 本物の数値を観察
 3. [レシピ](/steam/recipes) をひとつ選ぶ — 小さな実験
 
 ## うまく進めるコツ

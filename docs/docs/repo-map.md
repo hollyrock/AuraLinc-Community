@@ -13,6 +13,6 @@
 
 ## すすめ方
 
-1. [ハック！](./hack/getting-started.md) でEcoCONNECTを動かす
+1. [ハック！](./hack/getting-started) でEcoCONNECTを動かす
 2. 設計を見たくなったら `hardware/main-board/` を KiCad で開く
 
