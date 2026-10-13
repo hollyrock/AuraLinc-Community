@@ -1,0 +1,57 @@
+===============================================================================
+MULTI-LICENSE NOTICE
+===============================================================================
+
+This repository contains multiple components licensed under different open source
+licenses. Please refer to the directory-specific licenses outlined below:
+
+1. Hardware Designs (/hardware)
+   Licensed under the CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0).
+   See `/hardware/LICENSE-CERN-OHL-P.txt` for the full license text.
+
+2. Firmware & Software (/firmware, /software)
+   Licensed under the MIT License.
+   See `/firmware/LICENSE-MIT.txt` for the full license text.
+
+3. Documentation & Schematics / Visual Assets (/docs)
+   Licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0).
+   See `/docs/LICENSE-CC-BY.txt` for the full license text.
+
+===============================================================================
+SUMMARY OF MAIN COMPONENT LICENSES
+===============================================================================
+
+--- [ FIRMWARE / SOFTWARE: MIT LICENSE ] ---
+
+Copyright (c) 2026 [Your Name / Brand]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--- [ HARDWARE: CERN-OHL-P-2.0 NOTICE ] ---
+
+Copyright (c) 2026 [Your Name / Brand]
+
+This documentation/design is licensed under the CERN Open Hardware Licence
+Version 2 - Permissive (CERN-OHL-P-2.0).
+You may redistribute and modify this documentation under the terms of the
+CERN-OHL-P v2.
+
+-------------------------------------------------------------------------------
+For complete terms of all applicable licenses, please inspect the respective
+LICENSE files located within each component directory.

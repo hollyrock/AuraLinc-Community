@@ -1,15 +1,15 @@
-# EcoCONNECT Community
+# AuraLinc Community
 
 [日本語](./README.md)
 
-Open-source hardware community site for EcoCONNECT by hollyRock.
+Open-source hardware community site for AuraLinc EcoCONNECT by hollyRock.
 
 ## Site sections
 
 | Section | Contents |
 | --- | --- |
 | **Docs** | Getting started, tutorials, repo map, FAQ |
-| **STEAM** | Classroom templates, worksheets, short activities |
+| **Workshop** | Workshop Materials |
 | **Community** | Ideas, questions, suggestions (GitHub Discussions / giscus) |
 
 - **Site:** https://hollyrock.github.io/AuraLinc-Community/
@@ -23,4 +23,3 @@ community/
 └── site/                      # Built output (GitHub Pages)
 ```
 
-Internal source and management scripts stay local and are not published to GitHub.

@@ -21,3 +21,7 @@ hardware/main-board/sensor-pico.*
 
 # Node (if ever present at repo root)
 node_modules/
+
+# Secret / maintainer-only
+device.json
+README.internal.md

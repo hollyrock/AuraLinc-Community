@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.DZqO77tS.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/docs/auralinc/battery.md","filePath":"en/docs/auralinc/battery.md"}'),r={name:"en/docs/auralinc/battery.md"};function c(n,o,s,d,i,p){return t(),a("div")}const m=e(r,[["render",c]]);export{l as __pageData,m as default};

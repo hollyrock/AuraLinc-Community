@@ -1,0 +1,1 @@
+import{_ as e,o as r,c}from"./chunks/framework.DZqO77tS.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/docs/hack/recovery.md","filePath":"en/docs/hack/recovery.md"}'),t={name:"en/docs/hack/recovery.md"};function o(a,s,n,d,p,_){return r(),c("div")}const f=e(t,[["render",o]]);export{m as __pageData,f as default};

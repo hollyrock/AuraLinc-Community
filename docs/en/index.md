@@ -2,22 +2,22 @@
 layout: home
 
 hero:
-  name: EcoCONNECT
+  name: AuraLinc
   text: Community
-  tagline: Docs, STEAM materials, and a shared plaza — EcoCONNECT by hollyRock for classrooms and clubs.
+  tagline: Docs, STEAM materials, and a shared plaza — AuraLinc EcoCONNECT by hollyRock for classrooms and clubs.
   actions:
     - theme: brand
       text: Docs
       link: /en/docs/
     - theme: alt
-      text: STEAM
+      text: Workshop
       link: /en/steam/
 
 features:
   - title: Docs
     details: Getting started, tutorials, repo map, and FAQ — technical info in one place.
     link: /en/docs/
-  - title: STEAM
+  - title: Workshop
     details: Classroom templates, worksheets, and short activities for educators.
     link: /en/steam/
   - title: Community

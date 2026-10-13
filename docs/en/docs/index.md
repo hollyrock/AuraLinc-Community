@@ -1,17 +1,15 @@
 # Documentation
 
-Technical documentation for EcoCONNECT: getting started, safety, tutorials, where files live in the repo, and FAQ.
+Technical documentation for EcoCONNECT: getting started, tutorials, where files live in the repository, and FAQ.
 
 ## Contents
 
 | Page | What you’ll find |
 | --- | --- |
 | [What is EcoCONNECT?](./what-is-ecoconnect) | Project overview |
-| [Getting started](./getting-started) | Power on through flashing |
-| [Safety first](./safety) | Classroom and home safety |
-| [Tutorials](./tutorials/) | Step-by-step measurement guides |
 | [Repo map](./repo-map) | Public file locations |
-| [FAQ](./faq) | Common questions |
+| [Use with AuraLinc](./auralinc/tutorials/index.md) | Manual for AuraLinc (commercial edition) |
+| [Hack!](./hack/getting-started) | A step further into how to use the device |
 
-Classroom materials for educators: [STEAM](/en/steam/).  
-Share ideas and questions: [Community](/en/community/).
+Share ideas and questions in the [Community plaza](/en/community/).
+Materials for education are in [Workshop materials](/en/steam/).

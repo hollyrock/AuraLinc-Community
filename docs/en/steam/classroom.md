@@ -1,4 +1,4 @@
-# STEAM classroom ideas
+# Workshop ideas
 
 EcoCONNECT supports **Science, Technology, Engineering, Arts, and Mathematics** through short, tangible activities.
 

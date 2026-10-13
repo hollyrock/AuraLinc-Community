@@ -2,20 +2,17 @@
 
 この公開コミュニティリポジトリで見られるファイルの場所です。
 
-## 公開しているもの
+## オープンソースファイル
 
 | フォルダ | 内容 |
 | --- | --- |
-| `docs/` | サイト用ドキュメント（日本語がデフォルト、英語は `/en/`） |
-| `firmware/pico2/release/` | 書き込み用ファームウェア画像 |
-| `firmware/pico2/README.md` | Raspberry Pi Pico への書き込み手順 |
-| `hardware/main-board/` | メインボード設計ファイル（OSHWA 向け） |
+| `firmware/main/` | EcoCONNECT制御用コード（microPython） |
+| `firmware/pico2/` | 書き込み用ファームウェア(バイナリ＆ソース) |
+| `hardware/main-board/` | メインボード設計ファイル（OSHWA） |
 | `hardware/main-board/libs/` | KiCad シンボル・フットプリント |
 
 ## すすめ方
 
-1. [はじめ方](./getting-started) でボードを動かす
-2. `firmware/pico2/README.md` で書き込みを確認する
-3. 設計を見たくなったら `hardware/main-board/` を KiCad で開く
+1. [ハック！](./hack/getting-started.md) でEcoCONNECTを動かす
+2. 設計を見たくなったら `hardware/main-board/` を KiCad で開く
 
-内部のビルド用ツールやアプリソースは、この公開リポジトリには含めていません。

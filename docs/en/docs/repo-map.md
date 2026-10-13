@@ -1,21 +1,17 @@
 # Repo map
 
-Where public files live in this community repository.
+Where to find the open files in this public community repository.
 
-## What’s published
+## Open-source files
 
 | Folder | Contents |
 | --- | --- |
-| `docs/` | Site documentation (Japanese default; English under `/en/`) |
-| `firmware/pico2/release/` | Flashable firmware images |
-| `firmware/pico2/README.md` | How to flash Raspberry Pi Pico |
-| `hardware/main-board/` | Main-board design files (OSHWA-oriented) |
+| `firmware/main/` | Control code for EcoCONNECT (MicroPython) |
+| `firmware/pico2/` | Firmware to flash (binary and source) |
+| `hardware/main-board/` | Main-board design files (OSHWA) |
 | `hardware/main-board/libs/` | KiCad symbols and footprints |
 
 ## Suggested path
 
-1. Follow [Getting started](./getting-started)
-2. Confirm flashing in `firmware/pico2/README.md`
-3. Open `hardware/main-board/` in KiCad when you want the design
-
-Internal build tooling and application source are not published in this community repo.
+1. Get EcoCONNECT running with [Hack!](./hack/getting-started.md)
+2. When you want to look at the design, open `hardware/main-board/` in KiCad
