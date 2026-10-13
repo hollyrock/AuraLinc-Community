@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a}from"./chunks/framework.DZqO77tS.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/docs/hack/internal.md","filePath":"en/docs/hack/internal.md"}'),n={name:"en/docs/hack/internal.md"};function r(c,o,s,i,d,l){return t(),a("div")}const m=e(n,[["render",r]]);export{_ as __pageData,m as default};
