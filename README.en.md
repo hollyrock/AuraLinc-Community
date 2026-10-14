@@ -25,10 +25,10 @@ AuraLinc-Community/
 │   ├── public/             # Logo and shared assets
 │   └── steam/              # Workshop materials
 ├── firmware/
-│   ├── EcoCONNECT/         # EcoCONNECT control code
+│   ├── main/               # EcoCONNECT control code
 │   └── pico2/
-│       ├── release/        # Pico 2 image
-│       └── src/            # Pico 2 firmware code
+│       ├── release/            # Pico 2 image
+│       └── auralinc_c_modules/ # Pico 2 firmware code
 ├── hardware/
 │   ├── main-board/         # Main-board circuit data
 │   │   └── libs/           # KiCad libraries

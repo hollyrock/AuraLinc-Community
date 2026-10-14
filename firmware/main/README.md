@@ -10,5 +10,5 @@
 
 ## Installation
 
-1. Set each parameters (deveui, appeui, and appkey) for LoRa communications and rename file name from `device.json.example` to `device.json`.
+1. Set each parameter (deveui, appeui, and appkey) for LoRa communications and rename file name from `device.json.example` to `device.json`.
 2. Copy all 3 files onto pico2 via USB port.

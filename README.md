@@ -25,10 +25,10 @@ AuraLinc-Community/
 │   ├── public/             # ロゴや共通オブジェクト
 │   └── steam/              # ワークショップ用資料
 ├── firmware/
-│   ├── EcoCONNECT/         # EcoCONNECT制御コード
+│   ├── main/               # EcoCONNECT制御コード
 │   └── pico2/
-│       ├── release/        # Pico2 イメージ
-│       └── src/            # Pico2 F/Wコード
+│       ├── release/            # Pico2 イメージ
+│       └── auralinc_c_modules/ # Pico2 F/Wコード
 ├── hardware/
 │   ├── main-board/         # メイン基板回路データ
 │   │   └── libs/           # KiCADライブラリ
