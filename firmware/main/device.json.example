@@ -1,0 +1,5 @@
+{
+  "deveui": "CHANGE_ME_16_HEX_CHARS",
+  "appeui": "CHANGE_ME_16_HEX_CHARS",
+  "appkey": "CHANGE_ME_32_HEX_CHARS"
+}
