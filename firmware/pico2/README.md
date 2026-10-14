@@ -1,6 +1,22 @@
 # EcoCONNECT firmware (Pico 2)
 
-Ready-to-use firmware image for the EcoCONNECT main board.
+Souce codes and Ready-to-use firmware image for the EcoCONNECT main board.
+
+## What’s here
+
+| Path | What it is |
+| --- | --- |
+| `release/` | Firmware image(s) you can copy to the board |
+| `auralinc_c_modules` | Source code |
+
+## AuraLinc Pico2 Firmware
+
+board_power — RP2350 POWMAN low-power sleep for MicroPython (user C module).
+Uses Pico SDK hardware_powman to power down the switched core (and SRAM / XIP cache) and wake from the always-on timer.
+
+Wake triggers a full chip reboot → MicroPython restarts → main.py runs from the top (same contract as machine.deepsleep on rp2, but far lower idle current than lightsleep).
+
+Requires: MicroPython built for RPI_PICO2 / RP2350 with this usermod linked.
 
 ## Flash the board (beginner path)
 
@@ -11,11 +27,3 @@ Ready-to-use firmware image for the EcoCONNECT main board.
 5. A drive named something like **RPI-RP2** appears on your computer.
 6. Copy the `.uf2` file onto that drive.
 7. The board reboots by itself — flashing is done.
-
-## What’s here
-
-| Path | What it is |
-| --- | --- |
-| `release/` | Firmware image(s) you can copy to the board |
-
-If something does not work, ask a teacher or mentor for help — flashing once together usually clears it up.
