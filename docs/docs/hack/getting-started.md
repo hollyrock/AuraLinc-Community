@@ -6,9 +6,8 @@
 ## 技術情報
 
 - [構成](/docs/hack/internal)
-- 制御コードについて
-- ファームウェアについて
-- LoRaWANのペイロードについて
+- [ファームウェアと制御コードについて](/docs/hack/firmware)
+- [The Things Networkに繋げてみよう](/docs/hack/ttn)
 - [データを無線で送信する](/docs/hack/remote)
 
 ## 他のリソース
