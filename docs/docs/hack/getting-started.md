@@ -1,17 +1,11 @@
-# さあ！始めよう！
+# 移動しました
 
-ようこそ！
-このページでは、技術情報の概要を紹介します。
+<script setup>
+import { onMounted } from 'vue'
+import { withBase } from 'vitepress'
+onMounted(() => {
+  window.location.replace(withBase('/docs/getting-started'))
+})
+</script>
 
-## 技術情報
-
-- [構成](/docs/hack/internal)
-- [ファームウェアと制御コードについて](/docs/hack/firmware)
-- [The Things Networkに繋げてみよう](/docs/hack/ttn)
-- [データを無線で送信する](/docs/hack/remote)
-
-## 他のリソース
-
-- 10 分で終わる [レシピ](/steam/recipes)
-- アイデア探しは [事例](/steam/examples)
-- 先生向け：[ワークショップ資料](/steam/)
+このページは [ドキュメント](/docs/getting-started) に移動しました。

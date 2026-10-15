@@ -1,16 +1,11 @@
-# The Things Networkに繋げてみよう
+# 移動しました
 
-[The Things Network (TTN)](https://www.thethingsnetwork.org/)はフリーでオープンなLoRaWANネットワークを提供するコミュニティーです。
-世界中の有志がゲートウェイを登録しており、コミュニテーのメンバー（登録は無料）なら誰でも近くのゲートウェイに接続できます。
-もちろん、自分のゲートウェイをコミュニティに登録し、貢献することも可能です。
+<script setup>
+import { onMounted } from 'vue'
+import { withBase } from 'vitepress'
+onMounted(() => {
+  window.location.replace(withBase('/docs/ttn'))
+})
+</script>
 
-ここでは、自分でハックしたEcoCONNECTのデータをTTN経由で参照する方法を紹介します。
-
-## 接続までの流れ
-
-- ハックずみEcoCONNECTを用意する
-- 近くのゲートウェイを探す
-- （ゲートウェイが見つかった場合）TTNのメンバー登録をし、EcoCONNECTの`deveui`を登録する
-- データ受信の設定
-- データを受信する
--
+このページは [The Things Networkに繋げてみよう](/docs/ttn) に移動しました。

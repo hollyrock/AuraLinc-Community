@@ -5,7 +5,7 @@
 EcoCONNECT is made of a main board and a STEAM board.
 It runs on three alkaline batteries or USB power, and it is an IoT device with several connector wires you can use freely.
 
-![summary](/images/hacks/pict-main-board-summary.png)
+![summary](/images/docs/pict-main-board-summary.png)
 
 ### Specifications
 
@@ -46,7 +46,7 @@ Pins on the add-on board connectors (J5 and J8) are reserved for future expansio
 
 #### Physical layout and connector positions
 
-![main board](/images/hacks/main-board.png)
+![main board](/images/docs/main-board.png)
 
 ### STEAM board
 
@@ -68,4 +68,4 @@ Add pull-up resistors (R1 and R2) when the sensor module you use does not alread
 
 #### Physical layout and connector positions
 
-![steam board](/images/hacks/steam-board.png)
+![steam board](/images/docs/steam-board.png)

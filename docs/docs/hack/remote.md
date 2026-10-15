@@ -1,11 +1,11 @@
-# 無線でデータを送る
+# 移動しました
 
-EcoCONNECTで取得したデータをローカルPCに送る方法を解説します。
+<script setup>
+import { onMounted } from 'vue'
+import { withBase } from 'vitepress'
+onMounted(() => {
+  window.location.replace(withBase('/docs/remote'))
+})
+</script>
 
-## EcoCONNECTからPCまでのデータ経路
-
-## コンフィギュレーション
-
-1. ゲートウェイの設定を変更する。
-2. PCでサーバーサービスを起動する。
-3. データを確認する。
+このページは [データを無線で送信する](/docs/remote) に移動しました。
