@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as r}from"./chunks/framework.DZqO77tS.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/hack/firmware.md","filePath":"docs/hack/firmware.md"}'),t={name:"docs/hack/firmware.md"};function c(o,s,n,i,d,m){return a(),r("div")}const _=e(t,[["render",c]]);export{p as __pageData,_ as default};
