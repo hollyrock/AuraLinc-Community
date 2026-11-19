@@ -1,11 +1,20 @@
-# Moved
+# Let’s get started!
 
-<script setup>
-import { onMounted } from 'vue'
-import { withBase } from 'vitepress'
-onMounted(() => {
-  window.location.replace(withBase('/en/docs/hack/getting-started'))
-})
-</script>
+Welcome!
+This page shows you how to explore the documentation.
 
-Getting started moved to [Let’s get started](/en/docs/hack/getting-started).
+## Understand the structure of EcoCONNECT
+
+- [EcoCONNECT structure](/en/docs/internal)
+- [Firmware and control code](/en/docs/firmware)
+
+## Understand the technology behind EcoCONNECT
+
+- [Connect to The Things Network](/en/docs/ttn)
+- [Send data wirelessly](/en/docs/remote)
+
+## Make something with EcoCONNECT
+
+- A [recipe](/en/steam/recipes) you can finish in about 10 minutes
+- [Examples](/en/steam/examples) for ideas
+- For teachers: [Workshop materials](/en/steam/)

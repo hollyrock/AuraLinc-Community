@@ -1,11 +1,11 @@
-# Send data wirelessly
+# Moved
 
-How to send data collected by EcoCONNECT to a local PC.
+<script setup>
+import { onMounted } from 'vue'
+import { withBase } from 'vitepress'
+onMounted(() => {
+  window.location.replace(withBase('/en/docs/remote'))
+})
+</script>
 
-## Data path from EcoCONNECT to the PC
-
-## Configuration
-
-1. Change the gateway settings.
-2. Start the server service on the PC.
-3. Check the data.
+This page moved to [Send data wirelessly](/en/docs/remote).

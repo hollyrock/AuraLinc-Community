@@ -10,7 +10,7 @@ Hold BOOTSEL and plug the USB cable in again. On Raspberry Pi Pico, the drive is
 
 ### Which file should I copy?
 
-Use `firmware/pico2/release/ecoconnect-pico2.uf2`. See [Getting started](../hack/getting-started) and `firmware/pico2/README.md`.
+Use `firmware/pico2/release/ecoconnect-pico2.uf2`. See [Getting started](../getting-started) and `firmware/pico2/README.md`.
 
 ### Nothing happens after flashing
 

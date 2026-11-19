@@ -6,7 +6,7 @@
 
 ## Before you start
 
-Finish [Getting started](/en/docs/hack/getting-started) and flash the firmware.
+Finish [Getting started](/en/docs/getting-started) and flash the firmware.
 
 ## Steps
 

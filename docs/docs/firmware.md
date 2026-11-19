@@ -152,7 +152,7 @@ REPL上で次を実行して `84` が返れば成功です。
 
 `deveui`は購入したLoRaWANモジュールに固有のものです。購入時の添付されてきた紙などを確認します。
 
-`appeui`, `appkey`は[The Things Networkに繋げてみよう](/docs/docs/ttn.md)で設定しますので、リンク先を参照してそれぞれの値を取得します。
+`appeui`, `appkey`は[The Things Networkに繋げてみよう](/docs/ttn)で設定しますので、リンク先を参照してそれぞれの値を取得します。
 
 ３つすべての値が揃ったら`device.json.example`に書き込み、ファイル名を`device.json`に変更して保存します。
 
